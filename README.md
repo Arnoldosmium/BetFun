@@ -1,6 +1,10 @@
 # BetFun
 ## A python command line program to bet soccer events
 
+####VERSION 0.1
+__What's new?__
+Everything
+
 **Key Features**:
 - Automatically scrape bets and result information to execute bets
 - User customizable soccer league selection
