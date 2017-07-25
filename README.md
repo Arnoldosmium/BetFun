@@ -1,7 +1,8 @@
 # BetFun
 ## A python command line program to bet soccer events
 
-####VERSION 0.1
+#### VERSION 0.1
+
 __What's new?__
 Everything
 
@@ -23,5 +24,5 @@ Potentially Vunerability / Bug:
 
 _Why I did this?_
 - I'm a soccer fan. A Deportivo de La Coruña fan.
-- I have no money to bet / Bet like someone with $10M (lol)
+- I have no money to bet or to bet like someone with $10M (lol)
 - Some future machine learning stuff.
